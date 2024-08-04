@@ -1,0 +1,35 @@
+{
+  "name": "react-use-snapchat-pixel",
+  "version": "1.0.0",
+  "description": "Typed wrapper around Snapchat Pixel",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/geneloper/react-use-snapchat-pixel.git"
+  },
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc --watch"
+  },
+  "keywords": [
+    "snapchat",
+    "pixel",
+    "react",
+    "tracking",
+    "typescript"
+  ],
+  "author": "Eugene Medvedev",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "devDependencies": {
+    "@types/node": "^22.0.2",
+    "@typescript-eslint/eslint-plugin": "^8.0.0",
+    "@typescript-eslint/parser": "^8.0.0",
+    "eslint": "^8.57.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-prettier": "^5.2.1",
+    "prettier": "^3.3.3",
+    "prettier-eslint": "^16.3.0",
+    "typescript": "^5.5.4"
+  }
+}
